@@ -9,7 +9,7 @@ static const Block blocks[] = {
 	{"",	"mailbox",				180,		12 },
 	{"",	"cpubars",				1,		18 },
 	{"",	"memory",				1,		14 },
-	{"🌡",	"cpu",					1,		18 },
+	{"",	"cpu",					1,		18 },
 	{"",	"disk",					180,		13 },
 	{"",	"disk /home",				180,		13 },
 	{"",	"volume",				0,		10 },
