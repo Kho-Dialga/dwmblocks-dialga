@@ -29,7 +29,7 @@ void statusloop();
 void termhandler(int signum);
 
 
-#include "config.h"
+#include "blocks.h"
 
 static Display *dpy;
 static int screen;
